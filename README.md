@@ -5,7 +5,7 @@ Repository containing the tsrc 2.x multi-repository manifest
 
 ### Check out all projects in a given group (e.g. clinepi site, data loading, all site types)
 ```
-tsrc init git@github.com:VEuPathDB/tsrc.git --group baseProjects
+tsrc init git@github.com:ryanrdoherty/tsrc2.git --group websiteRelease
 ```
 ### Update all projects (or in a group) at the same time
 ```
