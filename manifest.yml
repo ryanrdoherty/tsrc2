@@ -1,0 +1,442 @@
+repos:
+
+  - dest: ApiCommonData
+    url: git@github.com:VEuPathDB/ApiCommonData.git
+    branch: master
+
+  - dest: ApiCommonDatasets
+    url: git@github.com:VEuPathDB/ApiCommonDatasets.git
+    branch: master
+
+  - dest: ApiCommonMetadataRepository
+    url: git@github.com:VEuPathDB/ApiCommonMetadataRepository.git
+    branch: master
+
+  - dest: ApiCommonModel
+    url: git@github.com:VEuPathDB/ApiCommonModel.git
+    branch: master
+
+  - dest: ApiCommonPresenters
+    url: git@github.com:VEuPathDB/ApiCommonPresenters.git
+    branch: master
+
+  - dest: ApiCommonWebService
+    url: git@github.com:VEuPathDB/ApiCommonWebService.git
+    branch: master
+
+  - dest: ApiCommonWebsite
+    url: git@github.com:VEuPathDB/ApiCommonWebsite.git
+    branch: master
+
+  - dest: ApiCommonWorkflow
+    url: git@github.com:VEuPathDB/ApiCommonWorkflow.git
+    branch: master
+
+  - dest: CBIL
+    url: git@github.com:VEuPathDB/CBIL.git
+    branch: master
+
+  - dest: StaticContent
+    url: git@github.com:VEuPathDB/StaticContent.git
+    branch: master
+
+  - dest: ClinEpiData
+    url: git@github.com:VEuPathDB/ClinEpiData.git
+    branch: master
+
+  - dest: ClinEpiDatasets
+    url: git@github.com:VEuPathDB/ClinEpiDatasets.git
+    branch: master
+
+  - dest: ClinEpiModel
+    url: git@github.com:VEuPathDB/ClinEpiModel.git
+    branch: master
+
+  - dest: ClinEpiPresenters
+    url: git@github.com:VEuPathDB/ClinEpiPresenters.git
+    branch: master
+
+  - dest: ClinEpiWebsite
+    url: git@github.com:VEuPathDB/ClinEpiWebsite.git
+    branch: master
+
+  - dest: ClinEpiWorkflow
+    url: git@github.com:VEuPathDB/ClinEpiWorkflow.git
+    branch: master
+
+  - dest: DJob
+    url: git@github.com:VEuPathDB/DJob.git
+    branch: master
+
+  - dest: DoTS
+    url: git@github.com:VEuPathDB/DoTS.git
+    branch: master
+
+  - dest: EbrcModelCommon
+    url: git@github.com:VEuPathDB/EbrcModelCommon.git
+    branch: master
+
+  - dest: EbrcWebsiteCommon
+    url: git@github.com:VEuPathDB/EbrcWebsiteCommon.git
+    branch: master
+
+  - dest: EbrcWebSvcCommon
+    url: git@github.com:VEuPathDB/EbrcWebSvcCommon.git
+    branch: master
+
+  - dest: EuPathDBIrods
+    url: git@github.com:VEuPathDB/EuPathDBIrods.git
+    branch: master
+
+  - dest: EuPathGalaxy
+    url: git@github.com:VEuPathDB/EuPathGalaxy.git
+    branch: master
+
+  - dest: EuPathTemplateSite
+    url: git@github.com:VEuPathDB/EuPathTemplateSite.git
+    branch: master
+
+  - dest: FgpUtil
+    url: git@github.com:VEuPathDB/FgpUtil.git
+    branch: master
+
+  - dest: GBrowse
+    url: git@github.com:VEuPathDB/GBrowse.git
+    branch: master
+
+  - dest: GGTools
+    url: git@github.com:VEuPathDB/GGTools.git
+    branch: master
+
+  - dest: GUS
+    url: git@github.com:VEuPathDB/GusAppFramework.git
+    branch: master
+
+  - dest: GusSchema
+    url: git@github.com:VEuPathDB/GusSchema.git
+    branch: master
+
+  - dest: install
+    url: git@github.com:VEuPathDB/install.git
+    branch: master
+
+  - dest: JBrowse
+    url: git@github.com:VEuPathDB/JBrowse.git
+    branch: master
+
+  - dest: MicrobiomeDatasets
+    url: git@github.com:VEuPathDB/MicrobiomeDatasets.git
+    branch: master
+
+  - dest: MicrobiomeModel
+    url: git@github.com:VEuPathDB/MicrobiomeModel.git
+    branch: master
+
+  - dest: MicrobiomePresenters
+    url: git@github.com:VEuPathDB/MicrobiomePresenters.git
+    branch: master
+
+  - dest: MicrobiomeWebsite
+    url: git@github.com:VEuPathDB/MicrobiomeWebsite.git
+    branch: master
+
+  - dest: MicrobiomeWorkflow
+    url: git@github.com:VEuPathDB/MicrobiomeWorkflow.git
+    branch: master
+
+  - dest: OAuth2Server
+    url: git@github.com:VEuPathDB/OAuth2Server.git
+    branch: master
+
+  - dest: OrthoMCLData
+    url: git@github.com:VEuPathDB/OrthoMCLData.git
+    branch: master
+
+  - dest: OrthoMCLDatasets
+    url: git@github.com:VEuPathDB/OrthoMCLDatasets.git
+    branch: master
+
+  - dest: OrthoMCLEngine
+    url: git@github.com:VEuPathDB/OrthoMCLEngine.git
+    branch: master
+
+  - dest: OrthoMCLModel
+    url: git@github.com:VEuPathDB/OrthoMCLModel.git
+    branch: master
+
+  - dest: OrthoMCLPresenters
+    url: git@github.com:VEuPathDB/OrthoMCLPresenters.git
+    branch: master
+
+  - dest: OrthoMCLShared
+    url: git@github.com:VEuPathDB/OrthoMCLShared.git
+    branch: master
+
+  - dest: OrthoMCLWebsite
+    url: git@github.com:VEuPathDB/OrthoMCLWebsite.git
+    branch: master
+    
+  - dest: OrthoMCLWebService
+    url: git@github.com:VEuPathDB/OrthoMCLWebService.git
+    branch: master
+
+  - dest: OrthoMCLClient
+    url: git@github.com:VEuPathDB/OrthoMCLClient.git
+    branch: master
+
+  - dest: OrthoMCLService
+    url: git@github.com:VEuPathDB/OrthoMCLService.git
+    branch: master
+
+  - dest: OrthoMCLWorkflow
+    url: git@github.com:VEuPathDB/OrthoMCLWorkflow.git
+    branch: master
+
+  - dest: ReFlow
+    url: git@github.com:VEuPathDB/ReFlow.git
+    branch: master
+
+  - dest: SchemaBrowser
+    url: git@github.com:VEuPathDB/SchemaBrowser.git
+    branch: master
+
+  - dest: SiteSearchData
+    url: git@github.com:VEuPathDB/SiteSearchData.git
+    branch: master
+
+  - dest: SiteSearchData-OrthoMCL
+    url: git@github.com:VEuPathDB/SiteSearchData-OrthoMCL.git
+    branch: master
+
+  - dest: SiteSearchService
+    url: git@github.com:VEuPathDB/SiteSearchService.git
+    branch: master
+
+  - dest: TuningManager
+    url: git@github.com:VEuPathDB/TuningManager.git
+    branch: master
+
+  - dest: WDK
+    url: git@github.com:VEuPathDB/WDK.git
+    branch: master
+
+  - dest: WDKClient
+    url: git@github.com:VEuPathDB/WDKClient.git
+    branch: master
+
+  - dest: WSF
+    url: git@github.com:VEuPathDB/WSF.git
+    branch: master
+
+groups:
+  base:
+    repos: 
+      - CBIL
+      - FgpUtil
+      - install
+      - TuningManager
+      - WDK
+      - WSF
+
+  siteShared:
+    repos:
+      - WDKClient
+      - EbrcModelCommon
+      - EbrcWebsiteCommon
+      - EbrcWebSvcCommon
+    includes:
+      - base
+
+  apiSite:
+    repos:
+      - ApiCommonDatasets
+      - ApiCommonModel
+      - ApiCommonPresenters
+      - ApiCommonWebService
+      - ApiCommonWebsite
+      - GBrowse
+      - JBrowse
+      - ReFlow
+    includes: 
+      - siteShared
+
+  orthoSite:
+    repos:
+      - install
+      - FgpUtil
+      - WSF
+      - WDK
+      - WDKClient
+      - EbrcWebsiteCommon
+      - EbrcWebSvcCommon
+      - OrthoMCLModel
+      - OrthoMCLService
+      - OrthoMCLWebsite
+      - OrthoMCLClient
+
+  orthoSite_b47_b48:
+    repos:
+      - install
+      - FgpUtil
+      - WSF
+      - WDK
+      - EbrcWebsiteCommon
+      - EbrcWebSvcCommon
+      - OrthoMCLModel
+      - OrthoMCLWebService
+      - OrthoMCLWebsite
+ 
+  clinEpiSite:
+    repos:
+      - ClinEpiPresenters
+      - ClinEpiDatasets
+      - ClinEpiModel
+      - ClinEpiWebsite
+      - ReFlow
+    includes:
+      - siteShared
+
+  microbiomeSite:
+    repos:
+      - MicrobiomePresenters
+      - MicrobiomeDatasets
+      - MicrobiomeModel
+      - MicrobiomeWebsite
+      - ReFlow
+    includes:
+      - siteShared
+
+  websiteRelease:
+    repos:
+      - EuPathGalaxy
+      - EuPathDBIrods
+      - OAuth2Server
+      - StaticContent
+    includes:
+      - apiSite
+      - orthoSite
+      - clinEpiSite
+      - microbiomeSite
+
+  baseLoading:
+    repos:
+      - ApiCommonData
+      - ApiCommonWorkflow
+      - DoTS
+      - EbrcModelCommon
+      - GGTools
+      - GUS
+      - GusSchema
+      - ReFlow
+      - DJob
+    includes:
+      - base
+
+  apiLoading:
+    repos:
+      - ApiCommonDatasets
+      - ApiCommonMetadataRepository
+      - ApiCommonModel
+      - ApiCommonPresenters
+    includes:
+      - baseLoading
+
+  clinEpiLoading:
+    repos: 
+      - ClinEpiData
+      - ClinEpiDatasets
+      - ClinEpiModel
+      - ClinEpiWorkflow
+      - ClinEpiPresenters
+    includes:
+      - baseLoading
+
+  microbiomeLoading:
+    repos: 
+      - ApiCommonMetadataRepository
+      - MicrobiomeDatasets
+      - MicrobiomeModel
+      - MicrobiomeWorkflow
+      - MicrobiomePresenters
+    includes:
+      - baseLoading
+
+  orthomclLoading:
+    repos: 
+      - ApiCommonModel
+      - OrthoMCLData
+      - OrthoMCLDatasets
+      - OrthoMCLEngine
+      - OrthoMCLModel
+      - OrthoMCLShared
+      - OrthoMCLWorkflow
+    includes:
+      - baseLoading
+
+  cluster:
+    repos:
+      - DJob
+      - CBIL
+      - install
+      
+  siteSearchData:
+    repos:
+      - FgpUtil
+      - WDK
+      - WSF
+      - SiteSearchData
+      - install
+
+  siteSearchData-OrthoMCL:
+    repos:
+      - FgpUtil
+      - WDK
+      - WSF
+      - SiteSearchData-OrthoMCL
+      - install
+
+  siteSearchService:
+    repos:
+      - install
+      - FgpUtil
+      - SiteSearchService
+
+  apiTuningManager:
+    repos:
+      - ApiCommonDatasets
+      - ApiCommonModel
+      - ApiCommonPresenters
+      - GUS
+      - ReFlow
+    includes: 
+      - siteShared
+
+  clinEpiTuningManager:
+    repos:
+      - ClinEpiDatasets
+      - ClinEpiModel
+      - ClinEpiPresenters
+      - GUS
+      - ReFlow
+    includes: 
+      - siteShared
+
+  oauth:
+    repos:
+      - OAuth2Server
+      - FgpUtil
+
+  irods:
+    repos:
+      - ApiCommonData
+      - ApiCommonModel
+      - DoTS
+      - EbrcModelCommon
+      - EbrcWebsiteCommon
+      - EuPathDBIrods
+      - GUS
+      - GusSchema
+      - ReFlow
+      - WDKClient
+    includes:
+      - base
